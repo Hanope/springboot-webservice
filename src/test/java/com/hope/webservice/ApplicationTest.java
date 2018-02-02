@@ -1,4 +1,4 @@
-package com.hope.springwebservice;
+package com.hope.webservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringWebserviceApplicationTests {
+public class ApplicationTest {
 
 	@Test
 	public void contextLoads() {
