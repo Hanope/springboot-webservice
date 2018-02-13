@@ -16,6 +16,7 @@ script: "./mvnw clean install"
 
 # CI 실행 완료시 메일로 알람
 notifications:
-  email:
-    recipients:
-      - heemanghan@gmail.com
+  slack: knu-gd-project:rbvAgXbNdECF1aywwZL8oImT
+#  email:
+#    recipients:
+#      - heemanghan@gmail.com
